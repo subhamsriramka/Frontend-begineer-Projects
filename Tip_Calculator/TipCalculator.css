@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    text-align: center;
+    background-color: goldenrod;
+    border-radius: 30px;
+    padding: 10px;
+}
+h4{
+    font-size: 17px;
+}

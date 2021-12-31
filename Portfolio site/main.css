@@ -1,0 +1,31 @@
+body{
+    background-color: #E6F3FA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #737368;
+}
+
+.h2{
+    color: #737368;
+}
+
+table,th,td{
+border: 2px solid #FAACE5;
+}
+
+a{
+    color: #737368;
+    border: 1px solid #FAACE5;
+    background-color: #EDF7F7;
+}
+
+img{
+    width: 200px;
+}
+
+form{
+    background-color: lightgreen;
+}
